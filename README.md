@@ -1,4 +1,4 @@
-# nautical-chart-HW
+# nautical-chart
 海圖說明書
 
 首先輸入總共有幾個座標
